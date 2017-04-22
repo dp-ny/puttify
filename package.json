@@ -1,0 +1,15 @@
+{
+  "name": "puttify",
+  "version": "1.0.0",
+  "description": "react test",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Pomeroy (dpny.nyc@yext.com)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
